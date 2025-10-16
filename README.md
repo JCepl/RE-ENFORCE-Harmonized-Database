@@ -11,7 +11,7 @@ DATA
 ├─ BOUNDARY
 │  └─ BOUNDARY SHAPEFILES
 │     ├─ <a href="info/info_Shapefiles">info</a>
-│     └─ <a href="#">link</a>
+│     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/shapefiles_of_areas.zip/content">link</a>
 │
 ├─ CLIMATE
 │  ├─ CHELSA CLIMATIC DATA
@@ -29,7 +29,7 @@ DATA
 │  │  ├─ <a href="info/info_Elevation>info</a>
 │  │  └─ <a href="#">link</a>
 │  ├─ ASPECT
-│  │  ├─ inf <a href="info/info_Aspect">info</a>
+│  │  ├─ <a href="info/info_Aspect">info</a>
 │  │  └─ <a href="#">link</a>
 │  └─ SLOPE
 │     ├─ <a href="info/info_Slope">info</a>
