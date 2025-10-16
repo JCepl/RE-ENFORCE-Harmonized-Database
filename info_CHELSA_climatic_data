@@ -1,0 +1,23 @@
+CHELSA data for modelling drought
+
+Values for four 30-years time periods: 
+●	1981-2010
+●	2011-2040
+●	2041-2070
+●	2071-2100
+
+Mean monthly values for:
+●	Precipitation totals
+●	Mean temperature
+●	Minimum temperature
+●	Maximum temperature
+
+5 different climate models for future data:
+●	GFDL-ESM4
+●	IPSL-CM6A-LR
+●	MPI-ESM1-2-HR
+●	MRI-ESM2-0
+●	UKESM1-0-LL
+
+→ 12 files per variable and period
+→ for future data 5 * 12 files per variable and period
