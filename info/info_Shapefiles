@@ -1,0 +1,14 @@
+Boundary Shapefiles
+
+Administrative boundary data used to define study areas and harmonize geospatial layers.
+
+Includes:
+
+  Interreg-CE boundary
+
+  Interreg-CE countries
+
+  Europe-wide boundary
+
+Coordinate system: WGS 84 (EPSG:4326).
+Used for clipping climate, land cover, and forest datasets.
