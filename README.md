@@ -5,34 +5,34 @@ This Git-hub Repository acompanies the [ZENODO](https://zenodo.org/uploads/17191
 DATA
 ├─ LAND COVER
 │  └─ CORINE LAND COVER
-│     ├─ <a href="info/info_CHELSA_climatic_data">info</a>
+│     ├─ <a href="info/info_CORINE_Land_Cover">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/CORINE_Land_Cover.zip/content">link</a>
 │
 ├─ BOUNDARY
 │  └─ BOUNDARY SHAPEFILES
-│     ├─ info
+│     ├─ <a href="info/info_Shapefiles">info</a>
 │     └─ <a href="#">link</a>
 │
 ├─ CLIMATE
 │  ├─ CHELSA CLIMATIC DATA
-│  │  ├─ info
+│  │  ├─ <a href="info/info_CHELSA_climatic_data">info</a>
 │  │  └─ <a href="https://chelsa-climate.org/">link</a>
 │  ├─ PRECIPITATION
 │  │  ├─ info
 │  │  └─ <a href="#">link</a>
 │  └─ GROWING DEGREE DAYS
-│     ├─ info
+│     ├─ <a href="info/info_GDD">info</a>
 │     └─ <a href="#">link</a>
 │
 ├─ TOPOGRAPHY
 │  ├─ ELEVATION
-│  │  ├─ info
+│  │  ├─ <a href="info/info_Elevation>info</a>
 │  │  └─ <a href="#">link</a>
 │  ├─ ASPECT
-│  │  ├─ info
+│  │  ├─ inf <a href="info/info_Aspect">info</a>
 │  │  └─ <a href="#">link</a>
 │  └─ SLOPE
-│     ├─ info
+│     ├─ <a href="info/info_Slope">info</a>
 │     └─ <a href="#">link</a>
 │
 ├─ FOREST
