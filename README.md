@@ -37,16 +37,11 @@ DATA
 │
 ├─ FOREST
 │  ├─ BIOMASS
-│  │  ├─ info
+│  │  ├─ <a href="info/info_Biomass">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/biomass.tif/content">Download (570.88 MB)</a>
 │  └─ TREE HEIGHT
-│     ├─ info
+│     ├─ <a href="info/info_Tree_height">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Tree_height.tif/content">Download (4.02 GB)</a>
-│
-├─ SOIL
-│  └─ SOIL TYPE
-│     ├─ info
-│     └─ /not uploaded yet/
 │
 └─ VALIDATION DATA
    └─ BARK BEETLE ATTACKS
