@@ -3,7 +3,8 @@ Tree Height (Turubanova et al. 2023)
 Description
 Raster dataset representing tree canopy height (in meters) for the year 2021 across Europe.
 Derived from Landsat time series calibrated using Airborne Laser Scanning (ALS) and spaceborne GEDI lidar data.
-Part of a broader dataset describing both canopy extent and height change over multiple years, though here only the most up-to-date (2021) height layer is used for forest structure assessment.
+Part of a broader dataset describing both canopy extent and height change over multiple years, 
+though here only the most up-to-date (2021) height layer is used for forest structure assessment.
 
 Source
 Turubanova S., Potapov P., Tyukavina A., et al. (2023).
@@ -22,4 +23,5 @@ Projection: EPSG 4326 (WGS 84)
 Extent: Rectangle_Europe (pan-European coverage)
 
 Use
-Provides spatially explicit estimates of canopy height suitable for integration with biomass, land-cover, and disturbance datasets in forest structure and habitat-vulnerability analyses.
+Provides spatially explicit estimates of canopy height suitable for integration with biomass, land-cover, 
+and disturbance datasets in forest structure and habitat-vulnerability analyses.
