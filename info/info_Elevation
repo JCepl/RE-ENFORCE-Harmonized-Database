@@ -1,1 +1,22 @@
-Topographic data - Elevation
+Elevation (EU-DEM, Copernicus)
+
+Description
+Raster dataset representing terrain elevation (meters above sea level) derived from the EU-DEM dataset provided by Copernicus.
+Tiles were downloaded from Eurostat GISCO, stitched together, and cropped to the defined European extent 
+to provide a continuous elevation surface for the RE-ENFORCE domain.
+
+Source
+EU-DEM (Copernicus).
+Downloaded from: https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation
+
+Copernicus Free and Open Data Policy.
+Data details
+File: Elevation_EU.tif
+Type: static raster
+Resolution: 30 arc-seconds (~1 km)
+Units: meters above sea level (m a.s.l.)
+Projection: EPSG 4326 (WGS 84)
+
+Use
+Provides the base topographic layer for deriving terrain variables (slope, aspect) 
+and for adjusting climatic or ecological models according to elevation-dependent gradients across Europe.
