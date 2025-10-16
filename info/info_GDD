@@ -1,0 +1,29 @@
+Growing Degree Days (Bark Beetle Generations)
+
+Description
+The dataset represents accumulated Growing Degree Days (GDD) derived from monthly CHELSA temperature rasters, calibrated for bark beetle development modelling in Central and Northern Europe.
+It quantifies thermal conditions suitable for the completion of one or more Ips typographus generations per year.
+
+Computation procedure (summary)
+
+Input data: monthly mean air temperature rasters (tavg_final_FULL_EUR.tif) from CHELSA.
+Temperature limits:
+Base temperature (T<sub>base</sub>) = 8.3 °C
+Upper threshold (T<sub>max</sub>) = 38.9 °C
+For each raster cell and month:
+Values above T<sub>max</sub> capped to T<sub>max</sub>.
+T<sub>base</sub> subtracted from each temperature value.
+Negative results set to 0.
+Monthly GDD multiplied by the number of days in the month.
+Only April–October months considered (period of beetle activity).
+Aggregated over 25 years to produce annual sums of effective thermal units.
+
+Output
+Raster file: GDD_now_EU.tif
+Format: GeoTIFF (GTiff)
+Resolution: same as CHELSA input (30 arc-seconds ≈ 1 km)
+Projection: WGS 84 (EPSG:4326)
+Units: number of potential bark beetle generations per year
+
+Use
+Provides a spatially explicit indicator of climatic suitability for bark beetle reproduction, used in combination with forest and land-cover layers to estimate outbreak potential and habitat vulnerability.
