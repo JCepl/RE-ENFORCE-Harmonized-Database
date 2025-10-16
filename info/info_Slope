@@ -1,1 +1,21 @@
-Topographical data - Slope
+Slope (Derived from EU-DEM)
+
+Description
+Raster dataset representing the slope steepness of the terrain, derived from the EU-DEM elevation model (Copernicus).
+Slope indicates the rate of elevation change across the surface, expressed as angular degrees from horizontal.
+
+Source
+Derived from EU-DEM (Copernicus) elevation data using standard terrain analysis tools (e.g., terrain(..., v = "slope") in GIS).
+
+License
+Copernicus Free and Open Data Policy.
+Data details
+File: Slope_EU.tif
+Type: static raster
+Resolution: 30 arc-seconds (~1 km)
+Units: degrees (°)
+Projection: EPSG 4326 (WGS 84)
+
+Use
+Represents terrain steepness, used to model runoff potential, soil erosion risk, 
+and site accessibility, and to support the derivation of other topographic or ecological variables.
