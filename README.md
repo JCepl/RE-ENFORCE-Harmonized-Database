@@ -5,7 +5,7 @@ This Git-hub Repository acompanies the [ZENODO](https://zenodo.org/uploads/17191
 DATA
 ├─ LAND COVER
 │  └─ CORINE LAND COVER
-│     ├─ info
+│     ├─ <a href="https://github.com/JCepl/RE-ENFORCE-Harmonized-Database/blob/main/info/info_CHELSA_climatic_data" target="_blank">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/CORINE_Land_Cover.zip/content">link</a>
 │
 ├─ BOUNDARY
