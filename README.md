@@ -43,7 +43,7 @@ DATA
 │  │  ├─ <a href="info/info_Tree_height">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Tree_height.tif/content">Download (4.02 GB)</a>
 │  └─ SEED SOURCES
-│     ├─ <a href="info/info_Seed_sources">info</a>
+│     ├─ <a href="info/info_Seed_sources.md">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/seed_sources_EU.gpkg/content">Download (14.31 MB)</a>
 │
 └─ VALIDATION DATA
