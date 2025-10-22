@@ -1,18 +1,36 @@
 Seed sources (obtain from [EU database](https://ec.europa.eu/forematis/))
 
 Description
-VectorRaster dataset representing the compass direction (aspect) of slopes derived from the EU-DEM elevation model under the Copernicus programme.
-Aspect describes the orientation a slope faces on the terrain surface, expressed as categorical compass sectors.
+Vector point dataset representing the location of registarted european seed sources of forest tree soecies.
 
 Source
-Derived from EU-DEM (Copernicus) elevation data.
-Computation based on surface slope orientation using standard topographic analysis (e.g., terrain(..., v = "aspect") in GIS).
+Obtained Forest Reproductive Material Information System (FOREMATIS).
+Map layer created based in latitude and longitude in in GIS.
 
 License
-Copernicus Free and Open Data Policy.
+- publicly abvailable on https://ec.europa.eu/forematis/
 
 Data details
-File: Aspect_EU_factors.tif
-Type: static raster
-Resolution: 30 arc-seconds (~1 km)
-Units: categorical values 1–8
+File: seed_sources_EU.gpkg
+Type: FOREST
+Units: points
+
+Information included:
+- Member State
+- Tree species and artificial hybrids thereof
+- Category
+- Region of provenance and/or national register reference of basic material
+- Location name or approved name
+- Latitude
+- Longitude
+- Altitude
+- Type of basic material
+- Area
+- Origin
+- Origin for non-autochtonous /non-indigenous basic material
+- Purpose
+- Remarks
+- Primary key
+- UPOV
+- Comments
+
