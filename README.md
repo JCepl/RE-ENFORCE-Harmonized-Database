@@ -15,7 +15,7 @@ DATA
 │
 ├─ CLIMATE
 │  ├─ CHELSA CLIMATIC DATA
-│  │  ├─ <a href="info/info_CHELSA_climatic_data">info</a>
+│  │  ├─ <a href="info/info_CHELSA_climatic_data.md">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Drought_CHELSA_data.zip/content">Download (16.68 GB)</a>
 │  ├─ PRECIPITATION
 │  │  ├─ info
