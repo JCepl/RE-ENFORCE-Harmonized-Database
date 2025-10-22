@@ -1,21 +1,21 @@
-Seed sources (obtain from [EU database](https://ec.europa.eu/forematis/))
+# Seed sources (obtain from [EU database](https://ec.europa.eu/forematis/))
 
-Description
-Vector point dataset representing the location of registarted european seed sources of forest tree soecies.
+## Description
+Vector point dataset representing the location of registered European seed sources of forest tree species.
 
-Source
-Obtained Forest Reproductive Material Information System (FOREMATIS).
-Map layer created based in latitude and longitude in in GIS.
+## Source
+Obtained from the Forest Reproductive Material Information System (FOREMATIS).  
+Map layer created based on latitude and longitude in GIS.
 
-License
-- publicly abvailable on https://ec.europa.eu/forematis/
+## License
+- Publicly available on [https://ec.europa.eu/forematis/](https://ec.europa.eu/forematis/)
 
-Data details
-File: seed_sources_EU.gpkg
-Type: FOREST
-Units: points
+## Data Details
+- **File**: seed_sources_EU.gpkg
+- **Type**: FOREST
+- **Units**: points
 
-Information included:
+### Information Included:
 - Member State
 - Tree species and artificial hybrids thereof
 - Category
@@ -27,10 +27,9 @@ Information included:
 - Type of basic material
 - Area
 - Origin
-- Origin for non-autochtonous /non-indigenous basic material
+- Origin for non-autochthonous/non-indigenous basic material
 - Purpose
 - Remarks
 - Primary key
 - UPOV
 - Comments
-
