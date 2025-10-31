@@ -19,7 +19,7 @@ DATA
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Drought_CHELSA_data.zip/content">Download (16.68 GB)</a>
 │  ├─ PRECIPITATION
 │  │  ├─ info
-│  │  └─ /not uploaded yet/
+│  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/CHELSA_precipitation.tif/content">Download (24.66 GB)</a>
 │  └─ GROWING DEGREE DAYS
 │     ├─ <a href="info/info_GDD">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Growing_degree_days_Bark_Beetle_EU.tif/content">Download (11.72 GB)</a>
