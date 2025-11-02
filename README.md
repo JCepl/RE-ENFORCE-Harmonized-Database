@@ -52,7 +52,7 @@ DATA
 └─ SOIL
 │   └─ SOIL TYPES
 │     ├─ <a href="info/info_Soil.md">info</a>
-│     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/seed_sources_EU.gpkg/content">Download (72.61 MB)</a>
+│     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Soil_types_tifs.7z/content">Download (72.61 MB)</a>
 │
 └─ VALIDATION DATA
    └─ BARK BEETLE ATTACKS
