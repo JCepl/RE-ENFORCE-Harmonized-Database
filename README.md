@@ -17,16 +17,14 @@ DATA
 │  ├─ CHELSA CLIMATIC DATA
 │  │  ├─ <a href="info/info_CHELSA_climatic_data.md">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Drought_CHELSA_data.zip/content">Download (16.68 GB)</a>
-│  ├─ PRECIPITATION
-│  │  ├─ info
-│  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/CHELSA_precipitation.tif/content">Download (24.66 GB)</a>
+│  │  
 │  └─ GROWING DEGREE DAYS
 │     ├─ <a href="info/info_GDD">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Growing_degree_days_Bark_Beetle_EU.tif/content">Download (11.72 GB)</a>
 │
 ├─ TOPOGRAPHY
 │  ├─ ELEVATION
-│  │  ├─ <a href="info/info_Elevation>info</a>
+│  │  ├─ <a href="info/info_Elevation">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/TOPO_elevation_EU.tif/content">Download (105.38 MB)</a>
 │  ├─ ASPECT
 │  │  ├─ <a href="info/info_Aspect">info</a>
@@ -39,12 +37,15 @@ DATA
 │  ├─ BIOMASS
 │  │  ├─ <a href="info/info_Biomass">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/biomass.tif/content">Download (570.88 MB)</a>
+│  │
 │  ├─ TREE HEIGHT
 │  │  ├─ <a href="info/info_Tree_height">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/Tree_height.tif/content">Download (4.02 GB)</a>
+│  │
 │  ├─ SPECIES DISTRIBUTION
 │  │  ├─ <a href="info/info_Species_distribution.md">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/species_dist_EU.tif/content">Download (42.41 MB)</a>
+│  │
 │  └─ SEED SOURCES
 │     ├─ <a href="info/info_Seed_sources.md">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/seed_sources_EU.gpkg/content">Download (14.31 MB)</a>
