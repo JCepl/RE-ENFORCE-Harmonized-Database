@@ -57,6 +57,6 @@ DATA
 │
 └─ VALIDATION DATA
    └─ BARK BEETLE ATTACKS
-      ├─ info
-      └─ /not uploaded yet/
+      ├─ <a href="info/info_Barkbeetle_validation_data.md">info</a>
+      └─ <a href="https://zenodo.org/api/records/17191513/draft/files/barkbeetle_validation_data.tif/content">Download (72.61 MB)</a> 
 </pre>
