@@ -1,7 +1,7 @@
 # Tree Height (2021)
 
 **Source:**  
-Turubanova, S., Potapov, P., Tyukavina, A., et al. (2023). *Tree canopy extent and height change in Europe.*
+Turubanova, S. et al. (2023). *Tree canopy extent and height change in Europe.*
 
 **URL:**  
 https://doi.org/10.1016/j.rse.2023.113797
