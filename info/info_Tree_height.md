@@ -10,7 +10,7 @@ https://doi.org/10.1016/j.rse.2023.113797
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 **Citation:**  
-Turubanova, S., Potapov, P., Tyukavina, A., et al. (2023).  
+Turubanova, S. et al. (2023).  
 *Tree canopy extent and height change in Europe.*  
 Remote Sensing of Environment, 298: 113797.  
 https://doi.org/10.1016/j.rse.2023.113797
