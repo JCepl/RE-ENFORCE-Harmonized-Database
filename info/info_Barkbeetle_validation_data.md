@@ -10,8 +10,7 @@ https://zenodo.org/records/13333034
 Copernicus Data and Information Policy – open and free to use with attribution
 
 **Citation:**  
-Senf, C., et al. (2024). *European Forest Disturbance Atlas (1985–2023).*  
-Zenodo. Available at: https://zenodo.org/records/13333034
+Viana-Soto, A., & Senf, C. (2024). European Forest Disturbance Atlas (Version 2.1.1.) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13333034
 
 **Original projection:**  
 WGS 84 geographic coordinates (EPSG: 4326)
