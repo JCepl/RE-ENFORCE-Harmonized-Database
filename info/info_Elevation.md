@@ -32,7 +32,7 @@ Provides harmonised elevation for climatic, hydrological, and disturbance-risk m
 -  **Elevation** – mean elevation per 1 km cell 
 
 **Form:**  
-Three separate GeoTIFF rasters for Elevation, Slope, and Aspect.
+The GeoTIFF raster for Elevation.
 
 **Size:**  
 105.38 MB  
