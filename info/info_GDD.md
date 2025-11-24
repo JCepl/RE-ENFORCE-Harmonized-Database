@@ -10,7 +10,7 @@ https://chelsa-climate.org/
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 **Citation:**  
-Karger, D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., Zimmermann, N.E., Linder, H.P., Kessler, M. (2021).
+Karger, D.N. et al. (2021).
 Climatologies at high resolution for the earth’s land surface areas (CHELSA V2.1).
 Climate of the Past, 17(2): 525–550.
 https://doi.org/10.1038/sdata.2017.122
