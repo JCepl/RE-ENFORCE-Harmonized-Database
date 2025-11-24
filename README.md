@@ -5,7 +5,7 @@ This Git-hub Repository acompanies the [ZENODO repository](https://zenodo.org/up
 DATA
 ├─ LAND COVER
 │  └─ CORINE LAND COVER
-│     ├─ <a href="info/info_CORINE_Land_Cover">info</a>
+│     ├─ <a href="info/info_CORINE_Land_Cover.md">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/CORINE_Land_Cover.zip/content">Download (4.42 GB)</a>
 │
 ├─ BOUNDARY
