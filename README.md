@@ -24,13 +24,13 @@ DATA
 │
 ├─ TOPOGRAPHY
 │  ├─ ELEVATION
-│  │  ├─ <a href="info/info_Elevation">info</a>
+│  │  ├─ <a href="info/info_Elevation.md">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/TOPO_elevation_EU.tif/content">Download (105.38 MB)</a>
 │  ├─ ASPECT
-│  │  ├─ <a href="info/info_Aspect">info</a>
+│  │  ├─ <a href="info/info_Aspect.md">info</a>
 │  │  └─ <a href="https://zenodo.org/api/records/17191513/draft/files/TOPO_aspect_EU_factors.tif/content">Download (26.39 MB)</a>
 │  └─ SLOPE
-│     ├─ <a href="info/info_Slope">info</a>
+│     ├─ <a href="info/info_Slope.md">info</a>
 │     └─ <a href="https://zenodo.org/api/records/17191513/draft/files/TOPO_slope_EU.tif/content">Download (105.41 MB)</a>
 │
 ├─ FOREST
