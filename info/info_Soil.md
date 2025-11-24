@@ -4,17 +4,13 @@
 European Commission – Joint Research Centre (JRC) / European Soil Data Centre (ESDAC), ESDBv2 Raster Library
 
 **URL:**  
-https://esdac.jrc.ec.europa.eu/content/european-soil-database-v2-raster-library
+https://esdac.jrc.ec.europa.eu/content/european-soil-database-v2-raster-library-10kmx10km
 
 **Licence:**  
 Free for research and education; © European Commission, Joint Research Centre (JRC)
 
 **Citation:**  
 Panagos, P., Van Liedekerke, M., Borrelli, P., Köninger, J., Ballabio, C., Orgiazzi, A., Lugato, E., Liakos, L., Hervas, J., Jones, A.  Montanarella, L. 2022. European Soil Data Centre 2.0: Soil data and knowledge in support of the EU policies. European Journal of Soil Science, 73(6), e13315. DOI: 10.1111/ejss.13315
-
-European Commission, Joint Research Centre (JRC). *European Soil Database v2 Raster Library (ESDBv2).*  
-European Soil Data Centre (ESDAC).  
-Available at: https://esdac.jrc.ec.europa.eu/content/european-soil-database-v2-raster-library
 
 **Original projection:**  
 ETRS89 / LAEA Europe (EPSG: 3035)
