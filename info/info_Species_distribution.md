@@ -1,30 +1,41 @@
-# Tree Species Distribution Across Europe
+# Species Distribution
 
-## Description
-Raster dataset representing the distribution of **101 tree species** across Europe.  
-The data is **boolean**:  
-- `1` — species is present  
-- `0` — species is not present
+**Source:**  
+Caudullo, G., Welk, E., San-Miguel-Ayanz, J. (2024). *Chorological data for the main European woody species.*
 
-The raster has 101 layers each representing individual tree species range. 
+**URL:**  
+https://doi.org/10.17632/hr5h2hcgg4.18
 
-The dataset includes **native**, **introduced**, and **naturalized** ranges combined.
+**Licence:**  
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-## Source
-Data derived from:  
-Caudullo, Giovanni; Welk, Erik; San-Miguel-Ayanz, Jesús (2024).  
-**“Chorological data for the main European woody species”**, *Mendeley Data*, V18.  
-DOI: [10.17632/hr5h2hcgg4.18](https://doi.org/10.17632/hr5h2hcgg4.18)  
-- Last update of the original dataset: **13 Dec 2018**
+**Citation:**  
+Caudullo, G., Welk, E., San-Miguel-Ayanz, J. (2024). *Chorological data for the main European woody species.*  
+Mendeley Data, V18.  
+DOI: 10.17632/hr5h2hcgg4.18
 
-## Licence
-**CC BY 4.0**
+**Original projection:**  
+WGS 84 geographic coordinates (EPSG: 4326)
 
-## Data Details
-- **File:** `species_dist_EU.tiff.tif`  
-- **Type:** FOREST  
-- **Resolution:** 30 arc-seconds (~1 km)  
-- **Units:** 0 / 1  
+**Original resolution:**  
+~30 arc-seconds (~1 km)
 
-## Projection
-**EPSG:** `4326` (WGS 84)
+**Processing:**  
+Boolean rasters (1 = presence, 0 = absence) for 101 tree species were standardised to a common 30″ grid and aligned with other environmental predictors.
+
+**Use:**  
+Provides species-level distribution data as input for modelling.
+
+**Form:**  
+GeoTIFF stack
+
+**Size:**  
+42.41 MB
+
+---
+
+## Notes
+
+- Raster dataset representing the distribution of 101 European tree species.  
+- Boolean data: **1 = presence**, **0 = absence**, with each layer corresponding to one species’ range.  
+- Includes combined native, introduced, and naturalised distribution areas.
