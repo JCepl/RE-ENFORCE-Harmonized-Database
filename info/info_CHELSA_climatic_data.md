@@ -15,6 +15,10 @@ Karger, D.N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R.W., 
 Climate of the Past, 17(2): 525–550.  
 https://doi.org/10.1038/sdata.2017.122
 
+Karger, D.N., Schmatz, D.R., Dettling, G. et al. 
+*High-resolution monthly precipitation and temperature time series from 2006 to 2100.* Sci Data 7, 248 (2020). 
+ https://doi.org/10.1038/s41597-020-00587-y
+
 **Original projection:**  
 WGS 84 geographic coordinates (EPSG: 4326)
 
