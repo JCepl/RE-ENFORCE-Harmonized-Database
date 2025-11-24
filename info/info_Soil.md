@@ -10,7 +10,7 @@ https://esdac.jrc.ec.europa.eu/content/european-soil-database-v2-raster-library-
 Free for research and education; © European Commission, Joint Research Centre (JRC)
 
 **Citation:**  
-Panagos, P., Van Liedekerke, M., Borrelli, P., Köninger, J., Ballabio, C., Orgiazzi, A., Lugato, E., Liakos, L., Hervas, J., Jones, A.  Montanarella, L. 2022. European Soil Data Centre 2.0: Soil data and knowledge in support of the EU policies. European Journal of Soil Science, 73(6), e13315. DOI: 10.1111/ejss.13315
+Panagos, P. et al. 2022. European Soil Data Centre 2.0: Soil data and knowledge in support of the EU policies. European Journal of Soil Science, 73(6), e13315. DOI: 10.1111/ejss.13315
 
 **Original projection:**  
 ETRS89 / LAEA Europe (EPSG: 3035)
