@@ -10,9 +10,9 @@ http://data.europa.eu/89h/5258cc23-7c0a-4462-af65-04500e2f0d48
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 **Citation:**  
-Avitabile, V. (2022). *Map of the forest Biomass Available for Wood Supply (BAWS) of EU-27 for 2020.*  
-JRC, European Commission.  
-DOI: 10.2905/5258cc23-7c0a-4462-af65-04500e2f0d48
+Avitabile, Valerio (2022): *Map of the forest Biomass Available for Wood Supply (BAWS) of EU27 for 2020.* 
+European Commission, Joint Research Centre (JRC) [Dataset] 
+PID: http://data.europa.eu/89h/5258cc23-7c0a-4462-af65-04500e2f0d48
 
 **Original projection:**  
 ETRS89 / LAEA Europe (EPSG: 3035)
