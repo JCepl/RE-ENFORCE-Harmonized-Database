@@ -12,7 +12,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Citation:**  
 Caudullo, G., Welk, E., San-Miguel-Ayanz, J. (2024). *Chorological data for the main European woody species.*  
 Mendeley Data, V18.  
-DOI: 10.17632/hr5h2hcgg4.18
+[DOI: 10.17632/hr5h2hcgg4.18](https://doi.org/10.17632/hr5h2hcgg4.18)
 
 **Original projection:**  
 WGS 84 geographic coordinates (EPSG: 4326)
