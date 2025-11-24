@@ -5,7 +5,7 @@ Administrative boundary data used to define study areas and harmonize geospatial
 Includes:
 ●	  Interreg-CE boundary
 ●	  Interreg-CE countries
-●	  Europe-wide boundary
+●	  Europe-wide boundary   (Extent: 	longitude −10.7° to 38.6°, latitude 34.5° to 71.6°)
 
 Coordinate system: WGS 84 (EPSG:4326).
 Used for clipping climate, land cover, and forest datasets.
