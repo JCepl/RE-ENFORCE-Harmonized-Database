@@ -14,10 +14,7 @@ Use, redistribution and modification permitted with appropriate
 attribution.
 
 **Citation:**\
-European Environment Agency (EEA), 2023. *CORINE Land Cover (CLC) 2018,
-Version 2023_20u1 -- Copernicus Land Monitoring Service*.\
-European Environment Agency (EEA).\
-Available at: https://land.copernicus.eu/pan-european/corine-land-cover
+European Environment Agency (EEA), Copernicus Land Monitoring Service. (2020). *CORINE Land Cover 2018 (Raster 100 m), Europe, 6-yearly – version 2020_20u1* [Dataset]. DOI: [10.2909/960998c1-1870-4e82-8051-6485205ebbac](https://doi.org/10.2909/960998c1-1870-4e82-8051-6485205ebbac).
 
 **Original projection:**\
 ETRS89 / LAEA Europe (EPSG: 3035)
