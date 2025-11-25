@@ -27,12 +27,13 @@ WGS 84 geographic coordinates (EPSG: 4326)
 
 **Processing:**  
 Monthly mean temperature and precipitation rasters from CHELSA v2.1 were used directly at native 30″ resolution and clipped to the Europe extent.
+Potential evapotranspiration (PET) was calculated with the Penman-Monteith equation
 
 **Use:**  
 Provides harmonised climatic variables and derived thermal indices for modelling drought stress, bark-beetle activity, and forest regeneration potential across Central Europe.
 
 **Form:**  
-4 ZIP archives (1981–2010, 2011–2040, 2041–2070, 2071–2100) containing GeoTIFF rasters of temperature and precipitation.
+4 ZIP archives (1981–2018, 2011–2040, 2041–2070, 2071–2100) containing GeoTIFF rasters of temperature and precipitation.
 
 **Size:**  
 16.68 GB
@@ -72,20 +73,22 @@ Each dataset includes complete metadata, units, and period-specific subfolders.
 
 | **File name** | **Source** | **Period** | **Resolution** | **Units** | **Description** |
 |----------------|-------------|-------------|----------------|------------|-----------------|
-| **1981-2010_Europe.zip** | CHELSA v2.1 | 1981–2010 | 30 arc sec | kg·m⁻²·month⁻¹ | Mean monthly total precipitation |
-|  | CHELSA v2.1 | 1981–2010 | 30 arc sec | °C | Mean monthly average air temperature |
-|  | CHELSA v2.1 | 1981–2010 | 30 arc sec | °C | Mean monthly maximum air temperature |
-|  | CHELSA v2.1 | 1981–2010 | 30 arc sec | °C | Mean monthly minimum air temperature |
-| **2011-2040_Europe.zip** | CHELSA v2.1 | 2011–2040 | 30 arc sec | kg·m⁻²·month⁻¹ | Mean monthly total precipitation (5 GCMs, SSP585) |
+| **1981-2010_Europe.zip** | CHELSA v2.1 | 1981–2018 | 30 arc sec | mm/month | Mean monthly total precipitation |
+|  | CHELSA v2.1 | 1981–2018 | 30 arc sec | °C | Mean monthly average air temperature |
+|  | CHELSA v2.1 | 1981–2018 | 30 arc sec | °C | Mean monthly maximum air temperature |
+|  | CHELSA v2.1 | 1981–2018 | 30 arc sec | °C | Mean monthly minimum air temperature |
+|  | CHELSA v2.1 | 1981–2018 | 30 arc sec | mm/month | Potential evapotranspiration (PET)|
+| **2011-2040_Europe.zip** | CHELSA v2.1 | 2011–2040 | 30 arc sec | mm/month | Mean monthly total precipitation (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2011–2040 | 30 arc sec | °C | Mean monthly average air temperature (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2011–2040 | 30 arc sec | °C | Mean monthly maximum air temperature (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2011–2040 | 30 arc sec | °C | Mean monthly minimum air temperature (5 GCMs, SSP585) |
-| **2041-2070_Europe.zip** | CHELSA v2.1 | 2041–2070 | 30 arc sec | kg·m⁻²·month⁻¹ | Mean monthly total precipitation (5 GCMs, SSP585) |
+| **2041-2070_Europe.zip** | CHELSA v2.1 | 2041–2070 | 30 arc sec | mm/month | Mean monthly total precipitation (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2041–2070 | 30 arc sec | °C | Mean monthly average air temperature (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2041–2070 | 30 arc sec | °C | Mean monthly maximum air temperature (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2041–2070 | 30 arc sec | °C | Mean monthly minimum air temperature (5 GCMs, SSP585) |
-| **2071-2100_Europe.zip** | CHELSA v2.1 | 2071–2100 | 30 arc sec | kg·m⁻²·month⁻¹ | Mean monthly total precipitation (5 GCMs, SSP585) |
+| **2071-2100_Europe.zip** | CHELSA v2.1 | 2071–2100 | 30 arc sec | mm/month | Mean monthly total precipitation (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2071–2100 | 30 arc sec | °C | Mean monthly average air temperature (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2071–2100 | 30 arc sec | °C | Mean monthly maximum air temperature (5 GCMs, SSP585) |
 |  | CHELSA v2.1 | 2071–2100 | 30 arc sec | °C | Mean monthly minimum air temperature (5 GCMs, SSP585) |
+
 
