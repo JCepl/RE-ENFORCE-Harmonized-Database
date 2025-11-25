@@ -15,11 +15,10 @@ DATA
 │
 ├─ CLIMATE
 │  ├─ CHELSA CLIMATIC DATA
+│  │     ├─ <a href="info/info_CHELSA_climatic_data.md">info</a>
 │  │     ├─ CHELSA PRECIPITATION
-│  │     │   ├─ <a href="info/info_CHELSA_climatic_data.md">info</a>
 │  │     │   └─ <a href="https://zenodo.org/records/17191513/files/CHELSA_precipitation.tif?download=1">Download (16.68 GB)</a> 
 │  │     └─ CHELSA DROUGHT
-│  │         ├─ <a href="info/info_GDD.md">info</a>
 │  │         └─ <a href="https://zenodo.org/records/17191513/files/Drought_CHELSA_data.zip?download=1">Download (11.72 GB)</a>    
 │  │  
 │  └─ GROWING DEGREE DAYS
