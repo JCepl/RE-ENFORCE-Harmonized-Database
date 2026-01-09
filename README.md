@@ -1,7 +1,8 @@
 # RE-ENFORCE-Harmonized-Database
-This Git-hub Repository acompanies the [ZENODO repository]((https://zenodo.org/records/17191513)) for the Transnational Cooperation on Nature-based Solutions for Restoring Degraded Forests of Central Europe (RE-ENFORCE)
+This GitHub repository accompanies the [ZENODO repository](https://zenodo.org/records/17191513) for the Transnational Cooperation on Nature-based Solutions for Restoring Degraded Forests of Central Europe (RE-ENFORCE).
 
 <pre>
+
 DATA
 ├─ LAND COVER
 │  └─ CORINE LAND COVER
