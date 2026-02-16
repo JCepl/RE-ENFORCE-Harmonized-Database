@@ -1,3 +1,5 @@
+![EU Project Logo](RE-ENFORCE_Logo_Standard_medium.png)
+
 # RE-ENFORCE-Harmonized-Database
 This GitHub repository accompanies the [ZENODO repository](https://zenodo.org/records/17191513) for the Transnational Cooperation on Nature-based Solutions for Restoring Degraded Forests of Central Europe (RE-ENFORCE).
 
